@@ -1,5 +1,7 @@
 FROM jenkinsci/slave
 
+ARG BUILD_DATE=""
+
 USER root
 
 WORKDIR /tmp/
