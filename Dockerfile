@@ -1,6 +1,6 @@
 FROM jenkinsci/slave
 
-ARG BUILD_DATE="20211004"
+ARG BUILD_DATE="2021-10-07T20:54:11Z"
 
 USER root
 
