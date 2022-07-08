@@ -1,4 +1,4 @@
-FROM jenkinsci/slave
+FROM jenkins/agent
 
 ARG BUILD_DATE="2022-06-30T20:53:19Z"
 
